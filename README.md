@@ -14,7 +14,7 @@
 - 🌱 Learning **React, Node.js, Machine Learning, Cloud**
 - 👯 Looking to collaborate on **AI, IoT, and Full-Stack Projects**
 - ⚡ Fun fact: **I debug more than I sleep 😄**
-- 📫 Reach me at: **mohamedfirdous808@gmail.com**
+- 📫 Reach me at: **srfirdous29@gmail.com**
 - 🧿 From: **Trichy, Tamil Nadu – India**
 
 ---
