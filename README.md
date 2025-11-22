@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Web development **
+- 🔭 Currently working on **Web development**
 - 🌱 Learning **React, Node.js, Machine Learning, Cloud**
 - 👯 Looking to collaborate on **AI, IoT, and Full-Stack Projects**
 - ⚡ Fun fact: **I debug more than I sleep 😄**
