@@ -22,8 +22,8 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:mohamedfirdous808@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mohamed-firdous-7578072a3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:srfirdous29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/mohamed-firdous" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
